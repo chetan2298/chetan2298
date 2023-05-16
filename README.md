@@ -23,7 +23,7 @@
 | Testing     | ChicoState/PantryNode#217 | Removed Entire Donor Test to be rewritten (https://github.com/ChicoState/PantryNode/issues/217)    | 
 | Testing     | ChicoState/PantryNode#182 | Added Testcase to check functioning of AddDonor bn (https://github.com/ChicoState/PantryNode/issues/182)    | 
 | Testing     | ChicoState/PantryNode#182 | Added Dialog box Check for Add New Entry (https://github.com/ChicoState/PantryNode/issues/182)    | 
-| Testing     | ChicoState/PantryNode#166 | Placeholder Frontend tests (https://github.com/ChicoState/PantryNode/issues/166)    | 
+| Testing     | ChicoState/PantryNode#166 | Worked with [TanviMahajan11] (https://github.com/TanviMahajan11) and [anoushka444] (https://github.com/Anoushka444)Placeholder Frontend tests (https://github.com/ChicoState/PantryNode/issues/166)    | 
 | Testing     | ChicoState/PantryNode#166 | Changed jest to react-scripts test (https://github.com/ChicoState/PantryNode/issues/166)    | 
 | Testing     | ChicoState/PantryNode#166 | Rollback on sale.test +removing stock.test (axios) (https://github.com/ChicoState/PantryNode/issues/166)    | 
 | Testing     | ChicoState/PantryNode#166 | Discarding stock.test.tsx to deal with axios se (https://github.com/ChicoState/PantryNode/issues/166)    | 
