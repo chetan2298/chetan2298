@@ -7,13 +7,15 @@
 2. Correctly mocked useNavigate Hook for Donors.test [feature] (https://github.com/ChicoState/PantryNode/pull/237)
 3. Spearheaded in adding New TestCases for Donor.tsx (https://github.com/ChicoState/PantryNode/pull/182)
 4. Wrote Placeholder Frontend tests by adding infrastructure to perform unit test cases for frontend codebase [test](https://github.com/ChicoState/PantryNode/pull/166)
-
+5. Consolidated the Coverage report for Frontend and Backend and created one job for both of them [feature](https://github.com/ChicoState/PantryNode/pull/244)
 
 
 ### PantryNode
 
 | Type       | Link                     | Notes                                      |
 |------------|--------------------------|--------------------------------------------|
+| Devops      | ChicoState/PantryNode#194 | Created a consolidated report using Jest to run single job for FE and BE Coverage Reports |
+| Discussion  | ChicoState/PantryNode#194 | Discussed use of act to test github workflows using act to reduce Test PRs being created |
 | Testing     | ChicoState/PantryNode#231 | Rewrite Donor Page Tests (https://github.com/ChicoState/PantryNode/issues/231)    | 
 | Testing     | ChicoState/PantryNode#237 | Refactored and wrote code for useNavigate tests for Donors.test(https://github.com/ChicoState/PantryNode/pull/237)   | 
 | Testing     | ChicoState/PantryNode#237 | Correctly mocked useNavigate Hook for Donors.test (https://github.com/ChicoState/PantryNode/pull/237)   | 
