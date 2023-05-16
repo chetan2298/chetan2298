@@ -27,8 +27,7 @@
 | Testing     | ChicoState/PantryNode#166 | Changed jest to react-scripts test (https://github.com/ChicoState/PantryNode/issues/166)    | 
 | Testing     | ChicoState/PantryNode#166 | Rollback on sale.test +removing stock.test (axios) (https://github.com/ChicoState/PantryNode/issues/166)    | 
 | Testing     | ChicoState/PantryNode#166 | Discarding stock.test.tsx to deal with axios se (https://github.com/ChicoState/PantryNode/issues/166)    | 
-| Testing     | ChicoState/PantryNode#166 | Removed App.test due to evolving nature of App.tsx
- (https://github.com/ChicoState/PantryNode/issues/166)    | 
+| Testing     | ChicoState/PantryNode#166 | Removed App.test due to evolving nature of App.tsx(https://github.com/ChicoState/PantryNode/issues/166)    | 
  | Testing     | ChicoState/PantryNode#166 | Added Sample testcases for Frontend components (https://github.com/ChicoState/PantryNode/issues/166)    | 
  | CodeReview     | ChicoState/PantryNode#248 | Changed jest to react-scripts test (https://github.com/ChicoState/PantryNode/pull/248)    | 
  | CodeReview     | ChicoState/PantryNode#248 | Code reviewed Expiry table test cases (https://github.com/ChicoState/PantryNode/pull/248)    | 
