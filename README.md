@@ -4,7 +4,7 @@
 ### Highlights
 
 1. Successfully refactored  issues with useNavigate tests that were failing (https://github.com/ChicoState/PantryNode/pull/237)
-2. Correctly mocked useNavigate Hook for Donors.test [feature] (https://github.com/ChicoState/PantryNode/pull/237)
+2. Correctly mocked useNavigate Hook for Donors.test [feature](https://github.com/ChicoState/PantryNode/pull/237)
 3. Spearheaded team in adding New TestCases for Donor.tsx (https://github.com/ChicoState/PantryNode/pull/182)
 4. Wrote Placeholder Frontend tests by adding infrastructure to perform unit test cases for frontend codebase [test](https://github.com/ChicoState/PantryNode/pull/166)
 5. Consolidated the Coverage report for Frontend and Backend and created one job for both of them [report](https://github.com/ChicoState/PantryNode/pull/244)
