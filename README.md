@@ -44,7 +44,7 @@
  | Code Review     | ChicoState/PantryNode#219 |  Added test cases for frontend (https://github.com/ChicoState/PantryNode/pull/219)    | 
  | Code Review     | ChicoState/PantryNode#186 |  Adding testcases for frontend component (https://github.com/ChicoState/PantryNode/pull/186)    | 
  | Code Review     | ChicoState/PantryNode#185 |   Coverage report - FE  (https://github.com/ChicoState/PantryNode/pull/185)    | 
- | Pair Programming & Research     | ChicoState/PantryNode#185 |  Actively contributed to discussion on coverage report generation using jest w [@anoushka444] () (https://github.com/ChicoState/PantryNode/pull/185)    | 
+ | Pair Programming & Research     | ChicoState/PantryNode#185 |  Actively contributed to discussion on coverage report generation using jest w [anoushka444] (https://github.com/Anoushka444) (https://github.com/ChicoState/PantryNode/pull/185)    | 
  | DevOps     | ChicoState/PantryNode#21 |  Added Test Cases and Defects sheet-Issue in "Add testing scaffold" (https://github.com/ChicoState/PantryNode/pull/21)    |
  | Discussion     | ChicoState/PantryNode#165 |  Test Cases and Defects sheet-Issue (https://github.com/ChicoState/PantryNode/pull/165)    | 
  | CodeReview     | ChicoState/PantryNode#75 |  Add infrastructure for automated testing (https://github.com/ChicoState/PantryNode/pull/75)    | 
