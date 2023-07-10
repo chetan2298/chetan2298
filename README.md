@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### CSCI 630 Portfolio Journal. This profile is linked mainly with my academic work. 
+###Portfolio Journal. Highlights the Development in the Pantry Node Project. 
  
 ### Highlights
 
